@@ -74,6 +74,7 @@ The recommended workstation setup is
 Install packages needed for simulations based on [pioneer_gazebo_ros](https://github.com/JenJenChung/pioneer_gazebo_ros.git)
 
 ```
+sudo apt-get install ros-kinetic-move-base ros-kinetic-move-base-msgs ros-kinetic-gmapping
 cd ~/catkin_ws/src
 git clone https://github.com/JenJenChung/pioneer_gazebo_ros.git
 git clone https://github.com/JenJenChung/pioneer_description.git
