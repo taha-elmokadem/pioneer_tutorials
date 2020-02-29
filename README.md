@@ -71,6 +71,7 @@ The recommended workstation setup is
     ```
 
 ## Pioneer_Gazebo_ROS Installation
+Install packages needed for simulations based on [pioneer_gazebo_ros](https://github.com/JenJenChung/pioneer_gazebo_ros.git)
 
 ```
 cd ~/catkin_ws/src
